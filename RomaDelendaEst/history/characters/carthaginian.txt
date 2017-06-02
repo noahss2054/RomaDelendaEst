@@ -1,0 +1,217 @@
+###########################################
+#           CHARACTERS                    #
+###########################################
+
+# Barcid Dynasty
+
+205400001 = { 
+name="Hamilcar" #Ruler of Tartessian Empire 1066
+dynasty  = 10101010101
+martial = 14
+diplomacy = 7
+intrigue = 5
+stewardship = 8
+learning = 10
+religion = "manichean"
+culture = "tartessian"
+trait = "proud"
+trait = "deceitful"
+trait = "scarred"
+trait = "gamer" #LMS if you're a REAL gamer
+trait = "naive_appeaser"
+1014.10.1 ={
+birth = "1014.10.1"
+}
+1039.6.2={
+add_spouse 205400002 #Izabel
+}
+1080.5.26={
+death = "1080.5.26"
+}
+}
+
+205400002 = { 
+name = "Izabel" #queen of Tartessian Empire
+dynasty = 10101010102
+female = yes
+martial = 6
+diplomacy = 16
+intrigue = 2
+stewardship = 5
+learning = 10
+religion = "manichean"
+culture = "carthaginian"
+trait = "kind"
+trait = "charitable"
+trait = "chaste"
+trait = "depressed"
+trait = "gardener"
+trait =" charismatic_negotiator"
+1020.9.3 = {
+birth = "1020.9.3"
+}
+1039.6.2={
+add_spouse 205400001 #Hamilcar
+}
+1082.7.26 = {
+death = "1082.7.26"
+death_reason = death_suicide
+}
+}
+205400003 = { 
+name = "Hasdrubal"#Ruler of Tartessian Empire 1080
+dynasty = 10101010101
+father = 205400001
+mother = 205400002
+martial = 10
+diplomacy = 8
+intrigue = 7
+stewardship = 3
+learning = 9
+religion = "manichean"
+culture = "carthaginian"
+trait = "ambitious"
+trait = "deceitful"
+trait = "kinslayer"
+trait = "duelist"
+trait = "intricate_webweaver"
+trait = "twin"
+1043.8.9 ={
+birth = "1043.8.9"
+}
+1094.7.3={
+death="1094.7.3"
+}
+}
+205400004 = { 
+name = "Dido"#Sister of Hasdrubal
+dynasty = 10101010101
+father = 205400001
+mother = 205400002
+female = yes
+martial = 5
+diplomacy = 9
+intrigue = 7
+stewardship = 5
+learning = 12
+religion = "manichean"
+culture = "carthaginian"
+trait = "ambitious"
+trait = "honest"
+trait = "lustful"
+trait = "patient"
+trait = "twin"
+trait = "mystic"
+trait = "scholarly_theologian"
+1043.8.9 = {
+birth="1043.8.9"
+}
+1097.10.4 = {
+death="1097.10.4"
+}
+}
+205400005 = { 
+name = "Himlico"#Older brother of Dido and Hasdrubal, murdered by Hasdrubal
+dynasty = 10101010101
+father = 205400001
+mother = 205400002
+martial = 12
+diplomacy = 8
+intrigue =0
+stewardship = 3
+learning = 4
+religion = "manichean"
+culture = "carthaginian"
+trait = "ambitious"
+trait = "proud"
+trait = "dull"
+trait = "duelist"
+trait = "naive_appeaser"
+1040.8.9 = {
+birth="1040.8.9"
+}
+1064.7.3 = {
+death = "1064.7.3"
+death_reason = death_duel
+killer = 205400003
+}
+}
+#########################################
+#MAGONID DYNASTY
+
+205400011 = { 
+name="Admagon" #Ruler of Ilipa in 1066
+dynasty  = 10101010102
+martial = 12
+diplomacy = 10
+intrigue = 7
+stewardship = 2
+learning = 5
+religion = "manichean"
+culture = "tartessian"
+trait = "quick"
+trait = "slothful"
+trait = "stubborn"
+trait = "scholar"
+trait = "midas_touched"
+1020.10.2 ={
+birth = "1020.10.2"
+}
+1040.7.2={
+add_spouse 205400012 #Treveh
+}
+1084.5.26={
+death = "1084.5.26"
+}
+}
+205400012 = { 
+name="Treveh" #queen of Ilipa in 1066
+dynasty  = 10101010102
+female = yes
+martial = 3
+diplomacy = 10
+intrigue = 4
+stewardship = 8
+learning = 3
+religion = "manichean"
+culture = "tartessian"
+trait = "dull"
+trait = "diligent"
+trait = "content"
+trait = "socializer" 
+trait = "naive_appeaser"
+1024.10.1 ={
+birth = "1024.10.1"
+}
+1040.7.2={
+add_spouse 205400011 #Admagon
+}
+1075.4.8={
+death = "1075.4.8"
+}
+}
+#########################################
+#HANNONID Dynasty
+205400021 = { 
+name="Eshmunamash" #Ruler of Ilipa in 1066
+dynasty  = 10101010103
+martial = 11
+diplomacy = 11
+intrigue = 4
+stewardship = 8
+learning = 15
+religion = "manichean"
+culture = "tartessian"
+trait = "erudite"
+trait = "slothful"
+trait = "stubborn"
+trait = "hunter" 
+trait = "martial_cleric"
+1030.11.3 ={
+birth = "1030.11.3"
+}
+
+1084.5.26={
+death = "1084.5.26"
+}
+}

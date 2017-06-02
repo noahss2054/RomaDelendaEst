@@ -1,0 +1,65 @@
+phoenician = {
+    graphical_cultures = { easterngfx }
+    carthaginian = {
+        graphical_culture = andalusiangfx
+		graphical_unit_culture = muslim
+        
+        color = { 0.25 0.1 0.2 }
+       
+
+		male_names = {
+			Abdashmon Abdenna Abdeshmun Abdimilki Abdmilkot Abdmelqart Abdosir Abdshed Abdshesm Abdusmun Abdzaphon Aderbaal Admagon Adonibaal Ahiram Ahimilk Ahotmilk Akbar Alideh_Alidus Amikeh_Amicus Annobaal Anobaal Antonineh_Anthony Aqhat Ashdabor Ashtartyaton Ashtzaph 
+			Awgusteh_Augustus Awrehli_Aurelius Ayliyaneh_Aelianus Azrubaal Baalfadi Baalhanno Baalshillek Baalyaton Baraket Binmilqart Bodashtart Bodeshmun Bodinelqart Bodmelqart Bodtanit Boqqi_Boccius Bostar Danel Diyodoreh_Diodorus 
+			Domineh_Dominus Donateh_Donatus Emil_Aemilius Eshmunamash Eshmunazar Eshmunkhilletz Eshmunshalokh Gayi_Caius Germanikus_Germanicus Germelqart Hamilket Hamon Hannibaal Hanno Haytili_Haetilius Hegrili_Egrilius 
+			Hiram Kanmi Khamelqart Khilletzbaal Khimilkât Kêkili_Caecilius Luqi_Lucius Magon Maharbaal Makrineh_Macrinus Maksineh_Maximus Mari_Marius Marqeh_Mark Marqi_Marcius Marseh_Marsus Melqartpilles Menahilim Merquri_Mercurius 
+			Methaqseh_Metaxus Milkherem Milkpilles Milkyaton Mithonbaal Peregrineh_Peregrinus Phawsteh_Faustus Phlawi_Flavius Pheliks_Felix Philosir Pimyaton Plawteh_Plautus Pompay_Pompeius Primeh_Primus Prophigeh_Profugus Qandideh_Candidus Qommodeh_Commodus 
+			Qwinteh_Quintus Regineh_Reginus Rib-Addi Ruphus_Rufus Sabineh_Sabinus Sakarbaal Serwi_Servius Sewereh_Severus Sexsteh_Sextus Shafat Tabnit Tanubda Tiberi_Tiberius Wespasiyaneh_Vespasian Yaroah Yehawwielon Yuli_Julius Yulyaneh_Julianus Yutpan Zimrida
+		}
+		female_names = {
+			Abdosir Abdtanit Agripina_Agrippina Amatashtart Amatbaal Amma Ammobaal Amotmilqart Antoniya_Antonia Arashtibaal Arisha Arishat Arishot Arshut Ashdanot Ashdonbaal Ashmonrabti Astarte Awgusta_Augusta Azibal Barkitbaal 
+			Batnoam Birkana Birkanda Bisha Bitnima Demna Domina Elissa Emeshmun Hannah Imashmon Imashtart Izabel_Elizabeth Lamiya_Lamia Mitunbaal Muttunbaal Pawly Pheliqula_Felicula Quarta Saphanbaal Septy Shiba Sisa Ummashtart Yasha Yuhliya_Julia Zibqet
+		}
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+
+		male_patronym = "bin "
+		female_patronym = "bitt "
+		prefix = yes
+		
+		modifier = default_culture_modifier
+	}
+	tartessian = {
+        graphical_culture = englishgfx
+		graphical_unit_culture = muslim
+		parent = carthaginian
+        
+        color = { 0.25 0.09 0.14 }
+
+
+		male_names = {
+			Abdashmon Abdenna Adyatunus Abdeshmun Abdimilki Abdmelqart Abdosir Abdshed Abdshesm Abdusmun Abdzaphon Aderbaal Admagon Akbar Alideh_Alidus Amikeh_Amicus Annobaal Anobaal Antonineh_Anthony Aqhat Ashdabor Ashtartyaton Ashtzaph 
+			Awgusteh_Augustus Awrehli_Aurelius Ayliyaneh_Aelianus Azrubaal Baalfadi Bathanatesh Baalhanno Baalshillek Baalyaton Baraket Brennes Binmilqart Bodashtart Bodeshmun Bodinelqart Bodmelqart Bodtanit Boqqi_Boccius Bostar Danel Diyodoreh_Diodorus 
+			Domineh_Dominus Divico Donateh_Donatus Emil_Aemilius Eshmunshalokh Gayi_Caius Galbeh Germelqart Hamilket Hamon Hannibaal Hanno Haytili_Haetilius Hegrili_Egrilius 
+			Hiram Kanmi Khamelqart  Kêkili_Caecilius Luqi_Lucius Magon Maharbaal Makrineh_Macrinus Maksineh_Maximus Mari_Marius Marqeh_Mark Marqi_Marcius Marseh_Marsus Melqartpilles Menahilim Merquri_Mercurius 
+			Methaqseh_Metaxus Milkherem Milkpilles Milkyaton Mithonbaal Peregrineh_Peregrinus Phawsteh_Faustus Phlawi_Flavius Pheliks_Felix Philosir Pimyaton Plawteh_Plautus Pompay_Pompeius Primeh_Primus Prophigeh_Profugus Qatuvulceh Qandideh_Candidus Qommodeh_Commodus 
+			Qwinteh_Quintus Qavarineh Qaritasireh Singetorekes Regineh_Reginus Rib-Addi Ruphus_Rufus Sabineh_Sabinus Sakarbaal Serwi_Servius Sewereh_Severus Sexsteh_Sextus Shafat Tabnit Tashgetis Tanubda Tiberi_Tiberius Wespasiyaneh_Vespasian Yaroah Yehawwielon Yuli_Julius Yulyaneh_Julianus Yutpan Zimrida
+		}
+		female_names = {
+			Abdosir Abdtanit Agripina_Agrippina Amatashtart Amatbaal Amma Ammobaal Amotmilqart Antoniya_Antonia Arashtibaal Arisha Arishat Arishot Arshut Ashdanot Ashdonbaal Ashmonrabti Astarte Awgusta_Augusta Azibal Barkitbaal 
+			Batnoam Birkana Birkanda Bisha Bitnima Demna Domina Elissa Emeshmun Hannah Imashmon Imashtart Izabel_Elizabeth Lamiya_Lamia Mitunbaal Muttunbaal Pawly Pheliqula_Felicula Quarta Saphanbaal Septy Shiba Sisa Ummashtart 
+			Yasha Yuhliya_Julia Zibqet Ameneh_Amena Apurkeh_Apirka Birkita_Birkita Brietteh_Brietta Galena_Galena Genovefa_Genovefa Kyneh_Kyna Mavis_Mavis 
+			Treveh_Treva Vevilem_Vevila
+		}
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+
+		male_patronym = "ben "
+		female_patronym = "bett "
+		prefix = yes
+		
+		modifier = default_culture_modifier
+	}
+    
+}

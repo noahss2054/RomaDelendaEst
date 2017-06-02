@@ -1,0 +1,103 @@
+10101010101 = {
+    name = "Barcid"
+    culture = carthaginian
+	used_for_random = no
+}
+10101010102 = {
+    name = "Magonid"
+    culture = carthaginian
+	used_for_random = no
+}
+10101010103 = {
+    name = "Hannonid"
+    culture = carthaginian
+	used_for_random = no
+}
+}10101010104 = {
+    name = "Asdrubalid"
+    culture = carthaginian
+}
+10003437 = {
+    name = "Hasdrubalid"
+    culture = carthaginian
+}
+10003094 = {
+    name = "Bomilcid"
+    culture = carthaginian
+}
+10006929 = {
+    name = "Didonid"
+    culture = carthaginian
+}
+10009919 = {
+    name = "Binixiemid"
+    culture = carthaginian
+}
+10007936 = {
+    name = "Amonid"
+    culture = carthaginian
+}
+10004472 = {
+    name = "Maharbaalid"
+    culture = carthaginian
+}
+10001613 = {
+    name = "Milkheremid"
+    culture = carthaginian
+}
+10002797 = {
+    name = "Abdeshumid"
+    culture = carthaginian
+}
+10001425 = {
+    name = "Abdennamid"
+    culture = carthaginian
+}
+10007867 = {
+    name = "Qartid"
+    culture = carthaginian
+}
+10009453 = {
+    name = "Bodmelqartid"
+    culture = carthaginian
+}
+10008979 = {
+    name = "Sehweremid"
+    culture = carthaginian
+}
+10001283 = {
+    name = "Phlawimid"
+    culture = carthaginian
+}
+10005893 = {
+    name = "Baalhannonid"
+    culture = carthaginian
+}
+10003169 = {
+    name = "Eshmunazarid"
+    culture = carthaginian
+}
+10007150 = {
+    name = "Khilletzbaalid"
+    culture = carthaginian
+}
+10009593 = {
+    name = "Maharbaalid"
+    culture = carthaginian
+}
+10000018 = {
+    name = "Ashtartyatonid"
+    culture = carthaginian
+}
+10008510 = {
+    name = "Zimridaid"
+    culture = carthaginian
+}
+10004958 = {
+    name = "Philosirid"
+    culture = carthaginian
+}
+10000032 = {
+    name = "Kanminid"
+    culture = carthaginian
+}
