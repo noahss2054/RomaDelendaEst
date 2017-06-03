@@ -1,19 +1,19 @@
-10101010101 = {
+1010101 = {
     name = "Barcid"
     culture = carthaginian
 	used_for_random = no
 }
-10101010102 = {
+1010102 = {
     name = "Magonid"
     culture = carthaginian
 	used_for_random = no
 }
-10101010103 = {
+1010103 = {
     name = "Hannonid"
     culture = carthaginian
 	used_for_random = no
 }
-}10101010104 = {
+1010104 = {
     name = "Asdrubalid"
     culture = carthaginian
 }
