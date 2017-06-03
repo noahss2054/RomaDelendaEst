@@ -1,0 +1,3 @@
+carthaginiangfx = {
+  skin_tone = 0
+}
