@@ -5,8 +5,8 @@
 # Barcid Dynasty
 
 205400001 = { 
-name="Hamilcar" #Ruler of Tartessian Empire 1066
-dynasty  = 10101010101
+name = "Hamilcar" #Ruler of Tartessian Empire 1066
+dynasty = 1010101
 martial = 14
 diplomacy = 7
 intrigue = 5
@@ -23,7 +23,10 @@ trait = "naive_appeaser"
 birth = "1014.10.1"
 }
 1039.6.2={
-add_spouse 205400002 #Izabel
+add_spouse = 205400002 #Izabel
+}
+1060.4.10 = {
+give_nickname = nick_the_jackal
 }
 1080.5.26={
 death = "1080.5.26"
@@ -32,7 +35,7 @@ death = "1080.5.26"
 
 205400002 = { 
 name = "Izabel" #queen of Tartessian Empire
-dynasty = 10101010102
+dynasty = 1010102
 female = yes
 martial = 6
 diplomacy = 16
@@ -50,17 +53,15 @@ trait =" charismatic_negotiator"
 1020.9.3 = {
 birth = "1020.9.3"
 }
-1039.6.2={
-add_spouse 205400001 #Hamilcar
-}
 1082.7.26 = {
 death = "1082.7.26"
 death_reason = death_suicide
 }
+
 }
 205400003 = { 
 name = "Hasdrubal"#Ruler of Tartessian Empire 1080
-dynasty = 10101010101
+dynasty = 1010101
 father = 205400001
 mother = 205400002
 martial = 10
@@ -85,7 +86,7 @@ death="1094.7.3"
 }
 205400004 = { 
 name = "Dido"#Sister of Hasdrubal
-dynasty = 10101010101
+dynasty = 1010101
 father = 205400001
 mother = 205400002
 female = yes
@@ -112,7 +113,7 @@ death="1097.10.4"
 }
 205400005 = { 
 name = "Himlico"#Older brother of Dido and Hasdrubal, murdered by Hasdrubal
-dynasty = 10101010101
+dynasty = 1010101
 father = 205400001
 mother = 205400002
 martial = 12
@@ -141,7 +142,7 @@ killer = 205400003
 
 205400011 = { 
 name="Admagon" #Ruler of Ilipa in 1066
-dynasty  = 10101010102
+dynasty  = 1010102
 martial = 12
 diplomacy = 10
 intrigue = 7
@@ -166,7 +167,7 @@ death = "1084.5.26"
 }
 205400012 = { 
 name="Treveh" #queen of Ilipa in 1066
-dynasty  = 10101010102
+dynasty  = 10009919
 female = yes
 martial = 3
 diplomacy = 10
@@ -194,7 +195,7 @@ death = "1075.4.8"
 #HANNONID Dynasty
 205400021 = { 
 name="Eshmunamash" #Ruler of Ilipa in 1066
-dynasty  = 10101010103
+dynasty  = 1010103
 martial = 11
 diplomacy = 11
 intrigue = 4
