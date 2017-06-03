@@ -7,6 +7,8 @@
 205400001 = { 
 name = "Hamilcar" #Ruler of Tartessian Empire 1066
 dynasty = 1010101
+dna="cedcc0fd000"
+properties="sf0mc00b000000"
 martial = 14
 diplomacy = 7
 intrigue = 5
@@ -36,6 +38,8 @@ death = "1080.5.26"
 205400002 = { 
 name = "Izabel" #queen of Tartessian Empire
 dynasty = 1010102
+dna="cefcb0edab0"
+properties="sf0a000b000000"
 female = yes
 martial = 6
 diplomacy = 16
