@@ -9,8 +9,7 @@
 	holder=142005 # Lucídio Vimaranes
 }
 910.12.20={
-	liege=k_spanish_galicia
-}
+	liege=k_ishpaniyeh
 922.1.1={
 	holder=73865 # Diogo de Guimaraez
 }
@@ -30,33 +29,5 @@
 	holder=109603 # Nuno I Vimaranes
 }
 1028.1.1={
-	holder=109604 # Mendo II Vimaranes
-}
-1050.1.1={
-	holder=109607 # Nuno II Vimaranes
-}
-1071.1.18={
-	holder=0
-}
-1097.4.9={
-	holder=6531 # Henrique I de Bourgogne
-}
-1109.6.30={
-	liege=0
-	de_jure_liege=k_portugal
-}
-1112.5.22={
-	holder=207661 # Teresa Alfónsez Jimena
-}
-1121.1.1={
-	liege=k_leon
-}
-1128.6.24={
-	holder=209503 # Afonso I de Bourgogne
-}
-1128.6.24={
-	liege=0
-}
-1139.7.29={
-	holder=0
+	holder=
 }

@@ -1,12 +1,10 @@
-769.1.1={
-	holder=73680 # Hisham I Umayyad
-	liege=k_andalusia
-}
+
 788.10.7={
 	holder=0
 }
 1023.1.1={
 	holder=73209 # al-Qasim (Muhammad I Abbadid)
+	liege=k_ilipa
 }
 1042.1.1={
 	holder=3212 # al-Mutadid (Abbad Abbadid)
@@ -16,7 +14,4 @@
 }
 1091.1.1={
 	holder=0
-}
-1249.1.1={
-	de_jure_liege=k_castille
 }
