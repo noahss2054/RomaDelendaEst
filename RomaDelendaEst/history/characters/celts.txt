@@ -1,0 +1,33 @@
+#############################################################
+#                         CELTS                             #
+#############################################################
+# Ishapani
+205400301 = { 
+name="Versingetorekes" #Ruler of Ishpaniyeh in 1066
+dynasty  = 10000144
+martial = 11
+diplomacy = 11
+intrigue = 4
+stewardship = 8
+learning = 15
+religion = "manichean"
+culture = "ishapani"
+trait = "erudite"
+trait = "quick"
+trait = "envious"
+trait = "ambitious"
+trait = "duelist" 
+trait = "fair"
+trait = "brilliant_strategist"
+1045.7.5 ={
+birth = "1045.7.5"
+}
+1065.7.9 ={
+add_trait = "one_eyed"
+add_trait = "one_legged"
+give_nickname = nick_the_sea_devil
+}
+1097.5.26={
+death = "1097.5.26"
+}
+}
