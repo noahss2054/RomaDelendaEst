@@ -63,3 +63,33 @@ phoenician = {
 	}
     
 }
+phoenician_celt = {
+    graphical_cultures = { englishfx easterngfx }
+    ishapani = {
+        graphical_culture = englishgfx
+		graphical_unit_culture = muslim
+        
+        color = { 0.1 0.25 0.19 }
+       
+
+		male_names = {
+			Akkeh_Acco Adyatunneh_Adiatunnus Ambyoreh_Ambiorix Andecomborieh_Andecomborius Bathanatesh_Bathanatos Bodwognateh_Boduognatus Brennes_Brennus Camulojeneh_Camulogenus Qatuvulceh_Catuvolcus 
+			Qevarineh_Cavarinus Qavares_Cavarus Qevethrieh_Cerethrius Singetoriks_Cingetorix Commiyeh_Commius Qotuateh_Cotuatus 
+			Qotueh_Cotus Critasireh_Critasirus Divisiakeh_Diviciacus Divikeh_Divico Donnotaureh_Donnotaurus Dumnoriks_Dumnorix Epporediks_Eporedix Galbeh_Galba 
+			Ikieh_Iccius Indutiyomares_Indutiomaros Liskeh_Liscus Lutavikeh_Litaviccus Lucteriyeh_Lucterius Oryetoriks_Orgetorix Tasgetiyeh_Tasgetius 
+			Vercassiviyehlauneh_Vercassivellaunus Versingetorekes_Vercingetorix Vertico_Vertico Viridomaros_Viridomaros Viridoviks_Viridovix        
+		}
+		female_names = {
+			Ameneh_Amena Apirkeh_Apirka Birkiteh_Birkita Briyetteh_Brietta Galeneh_Galena Genovefa_Genovefa Kyna_Kyna Mavis_Mavis 
+			Treveh_Treva Vevilem_Vevila Demna Domina Elissa Hannah Imashmon Imashtart Izabel_Elizabeth       
+		}
+
+		founder_named_dynasties = yes
+
+		male_patronym = "bin "
+		female_patronym = "bitt "
+		prefix = yes
+		
+		modifier = default_culture_modifier
+	}
+}
