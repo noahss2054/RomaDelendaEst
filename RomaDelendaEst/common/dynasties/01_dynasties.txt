@@ -101,3 +101,91 @@
     name = "Kanminid"
     culture = carthaginian
 }
+10000033 = {
+    name = "Akheinid"
+    culture = tartessian
+}
+10000034 = {
+    name = "Abdashmonid"
+    culture = tartessian
+}
+10000035 = {
+    name = "Kanminid"
+    culture = tartessian
+}
+10000036 = {
+    name = "Ruphusid"
+    culture = tartessian
+}
+10000037 = {
+    name = "Peregrinid"
+    culture = tartessian
+}
+10000038 = {
+    name = "Brennesid"
+    culture = tartessian
+}
+10000039 = {
+    name = "Sakaarbalid"
+    culture = tartessian
+}
+10000040 = {
+    name = "Luqinid"
+    culture = tartessian
+}
+10000041 = {
+    name = "Ayleyahnid"
+    culture = tartessian
+}
+10000042 = {
+    name = "Mithonbaalid"
+    culture = tartessian
+}
+10000043 = {
+    name = "Kanminid"
+    culture = tartessian
+}
+10000044 = {
+    name = "Galbehnid"
+    culture = tartessian
+}
+10000045 = {
+    name = "Pheliksid"
+    culture = tartessian
+}
+10000137 = {
+    name = "Peregrinid"
+    culture = ishapani
+}
+10000138 = {
+    name = "Abandinubid"
+     culture = ishapani
+}
+10000139 = {
+    name = "Ambisagrid"
+    culture = ishapani
+}
+10000140 = {
+    name = "Borvodid"
+    culture = ishapani
+}
+10000141 = {
+    name = "Cimbriyanid"
+    culture = ishapani
+}
+10000142 = {
+    name = "Vindonnid"
+    culture = tartessian
+}
+10000143 = {
+    name = "Andrasteid"
+    culture = ishapani
+}
+10000144 = {
+    name = "Icovellaunid"
+    culture = ishapani
+}
+10000145 = {
+    name = "Verbeidid"
+    culture = ishapani
+}
