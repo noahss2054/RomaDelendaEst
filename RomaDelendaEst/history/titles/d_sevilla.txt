@@ -1,6 +1,7 @@
 
 788.10.7={
 	holder=0
+	de_jure_liege=k_ilipa
 }
 1023.1.1={
 	holder=73209 # al-Qasim (Muhammad I Abbadid)
