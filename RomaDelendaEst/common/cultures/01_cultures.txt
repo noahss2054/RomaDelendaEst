@@ -34,7 +34,7 @@ phoenician = {
 		graphical_unit_culture = muslim
 		parent = carthaginian
         
-        color = { 0.25 0.09 0.14 }
+          color = { 0.6 0.4 0.5 }
 
 
 		male_names = {
