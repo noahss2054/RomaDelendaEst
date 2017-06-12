@@ -15,8 +15,8 @@ b_sanpedrodeperix = castle
 #b_cistierna = castle
 
 # Misc
-culture = visigothic
-religion = catholic
+culture = ishapani
+religion = manichean
 
 # History
 
@@ -35,4 +35,3 @@ religion = catholic
 	b_sanpedrodeperix = ca_wall_2
 }
 
-950.1.1 = { culture = castillan }
