@@ -14,20 +14,13 @@ b_lorca = temple
 #b_nogalte = castle
 #b_yecla = castle
 
-culture = visigothic
-religion = catholic
+culture = tartessian
+religion = manichean
 
 # History
 
-812.1.1 = { religion = sunni }
 
-944.1.1 = {
-	culture = andalusian_arabic
-}
+
+
 
 1127.1.1 = { trade_post = b_fieschi }
-
-1281.1.1 = {
-	culture = castillan
-	religion = catholic
-}

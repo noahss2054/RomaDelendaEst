@@ -14,19 +14,7 @@ b_hellin = temple
 #b_tobarra = castle
 #b_caudete = castle
 
-culture = visigothic
-religion = catholic
+culture = tartessian
+religion = manichean
+
 terrain = hills
-
-# History
-
-812.1.1 = { religion = sunni }
-
-939.1.1 = {
-	culture = andalusian_arabic
-}
-
-1280.1.1 = {
-	culture = castillan
-	religion = catholic
-}

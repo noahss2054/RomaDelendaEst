@@ -15,11 +15,7 @@ b_piedra = temple
 #b_cimballa = castle
 
 # Misc
-culture = visigothic
-religion = catholic
-
+culture = tartessian
+religion = manichean
 # History
 
-955.1.1 = {
-	culture = castillan
-}

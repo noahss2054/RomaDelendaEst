@@ -15,19 +15,7 @@ b_laroda = temple
 #b_jorquera = castle
 
 # Misc
-culture = visigothic
-religion = catholic
+culture = tartessian
+religion = manichean
 
 # History
-
-812.1.1 = { religion = sunni }
-
-939.1.1 = { 
-	culture = andalusian_arabic
-}
-
-1235.1.1 = { 
-	culture = castillan
-	religion = catholic
-}
-

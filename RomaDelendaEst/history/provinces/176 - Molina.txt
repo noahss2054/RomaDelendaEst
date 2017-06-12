@@ -14,12 +14,9 @@ b_cabanillasdelcampo = city
 #b_elcasar = castle
 #b_olmeda = castle
 
-culture = visigothic
-religion = catholic
+culture = tartessian
+religion = manichean
 terrain = hills
 
 # History
 
-955.1.1 = {
-	culture = castillan
-}

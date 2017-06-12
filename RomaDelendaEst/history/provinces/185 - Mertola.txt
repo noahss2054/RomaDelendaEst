@@ -14,18 +14,6 @@ b_monsaraz = temple
 #b_moura = castle
 #b_serpa = castle
 
-culture = visigothic
-religion = catholic
+culture = tartessian
+religion = manichean
 
-# History
-
-811.1.1 = { religion = sunni }
-
-939.1.1 = {
-	culture = andalusian_arabic
-}
-
-1253.1.1 = {
-	culture = portuguese
-	religion = catholic
-}
