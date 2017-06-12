@@ -15,9 +15,8 @@ b_segovia = temple
 #b_iscar = city
 
 # Misc
-culture = visigothic
-religion = catholic
-
+culture = ishapani
+religion = manichean
 # History
 
 867.1.1 = { 
@@ -29,4 +28,3 @@ religion = catholic
 	b_valladolid = ca_wall_2
 }
 
-950.1.1 = { culture = castillan }

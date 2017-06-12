@@ -15,8 +15,8 @@ b_calahorra = temple
 #b_zizurmayor = castle
 
 # Misc
-culture = basque
-religion = catholic
+culture = ishapani
+religion = manichean
 
 # History
 

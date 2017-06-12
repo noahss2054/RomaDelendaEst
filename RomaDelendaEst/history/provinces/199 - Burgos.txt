@@ -14,8 +14,8 @@ b_castrobarte = castle
 #b_arandadeduero = temple
 #b_carrion = castle
 
-culture = visigothic
-religion = catholic
+culture = ishapani
+religion = manichean
 terrain = hills
 
 # History
@@ -34,5 +34,3 @@ terrain = hills
 	b_castrobarte = ca_wall_1
 	b_castrobarte = ca_wall_2
 }
-
-945.1.1 = { culture = castillan }
