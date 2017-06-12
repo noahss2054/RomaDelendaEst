@@ -15,17 +15,8 @@ b_guadalupe = temple
 #b_alcuescar = castle
 
 # Misc
-culture = visigothic
-religion = catholic
-
+culture = tartessian
+religion = manichean
 # History
 
-939.1.1 = { 
-	culture = andalusian_arabic
-	religion = sunni
-}
 
-1244.4.23 = {
-	culture = castillan
-	religion = catholic
-}

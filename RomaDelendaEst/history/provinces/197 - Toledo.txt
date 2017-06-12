@@ -15,9 +15,6 @@ b_talavera = temple
 b_illescas = castle
 
 # Misc
-culture = visigothic
-religion = catholic
-
+culture = tartessian
+religion = manichean
 # History
-
-955.1.1 = { culture = castillan }

@@ -15,17 +15,7 @@ b_jaraiz = temple
 #b_talayuela = castle
 
 # Misc
-culture = visigothic
-religion = catholic
+culture = tartessian
+religion = manichean
 
 # History
-
-943.1.1 = { 
-	culture = andalusian_arabic
-	religion = sunni
-}
-
-1240.1.1 = { 
-	culture = castillan
-	religion = catholic
-}
