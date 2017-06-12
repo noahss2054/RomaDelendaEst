@@ -17,8 +17,8 @@ b_aire = temple
 #b_stsever = temple
 
 #Misc
-religion = catholic
-culture = basque
+culture = ishapani
+religion = manichean
 terrain = hills
 
 # History

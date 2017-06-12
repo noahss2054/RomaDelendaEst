@@ -15,8 +15,8 @@ b_sansebastian = temple
 #b_tolosa = castle
 
 # Misc
-culture = basque
-religion = catholic
+culture = ishapani
+religion = manichean
 
 # History
 1245.1.1 = { trade_post = b_embriaco }

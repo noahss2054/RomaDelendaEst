@@ -15,11 +15,8 @@ b_puigcerda = castle
 #b_tremp = castle
 
 # Misc
-culture = visigothic
-religion = catholic
+culture = ishapani
+religion = manichean
 
 # History
 
-952.1.1 = {
-	culture = catalan
-}

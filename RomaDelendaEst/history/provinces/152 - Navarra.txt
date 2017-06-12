@@ -15,9 +15,8 @@ b_tafalla = castle
 #b_estella = castle
 
 # Misc
-culture = basque
-religion = catholic
-
+culture = ishapani
+religion = manichean
 # History
 
 867.1.1 = { 

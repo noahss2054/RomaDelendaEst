@@ -15,8 +15,8 @@ b_tuy = temple
 #b_vilagarcia = castle
 
 # Misc
-culture = suebi
-religion = catholic
+culture = ishapani
+religion = manichean
 
 # History
 
@@ -34,9 +34,6 @@ religion = catholic
 	b_pontevedra = ca_wall_2
 }
 
-926.1.1 = {
-	culture = portuguese
-}
 
 1126.3.8 = { capital = b_santiago }
 
