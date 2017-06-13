@@ -22,6 +22,9 @@ trait = "brilliant_strategist"
 1045.7.5 ={
 birth = "1045.7.5"
 }
+1064.3.2 ={
+add_spouse = 205400302
+}
 1065.7.9 ={
 add_trait = "one_eyed"
 add_trait = "one_legged"
@@ -29,5 +32,72 @@ give_nickname = nick_the_sea_devil
 }
 1097.5.26={
 death = "1097.5.26"
+}
+}
+205400302 = { 
+name="Elissa" #queen of Ishpaniyeh in 1066
+dynasty  = 10000143
+female = yes
+martial = 10
+diplomacy = 10
+intrigue = 10
+stewardship = 10
+learning = 10
+religion = "manichean"
+culture = "ishapani"
+trait = "genius"
+trait = "proud"
+trait = "lustful"
+trait = "ambitious"
+trait = "cynical" 
+trait = "deceitful"
+trait = "intricate_webweaver"
+1046.4.5 ={
+birth = "1046.4.5"
+}
+1099.9.1={
+death = "1099.9.1"
+}
+}
+#Lesser Nobles
+
+205400311 = { 
+name="Akkeh" 
+dynasty  = 10000137
+martial = 12
+diplomacy = 2
+intrigue = 10
+stewardship = 2
+learning = 11
+religion = "manichean"
+culture = "ishapani"
+trait = "envious"
+trait = "flamboyant_schemer"
+1030.4.5 ={
+birth = "1030.4.5"
+}
+1099.9.1={
+death = "1079.9.3"
+}
+}
+205400311 = { 
+name="Qevarineh" 
+dynasty  = 10000138
+martial = 5
+diplomacy = 7
+intrigue = 6
+stewardship = 10
+learning = 7
+religion = "manichean"
+culture = "ishapani"
+trait = "content"
+trait = "kind"
+trait = "gardener"
+trait = "midas_touched"
+1035.6.7 ={
+birth = "1033.6.7"
+}
+1077.10.2={
+death = "1077.10.2"
 }
 }
